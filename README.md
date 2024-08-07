@@ -14,7 +14,7 @@ Proyectos Destacados
 Aquí hay una lista de algunos de mis proyectos más destacados:
 
 
-Proyecto 1: Página que registra la Flora y Fauna que ha en la Universidad Tecnológica de Panamá. https://github.com/Moisinho/Portafolio/tree/main/Proyecto%20FloraFaunaUTP
+Proyecto 1: Página que registra la Flora y Fauna que hay en la Universidad Tecnológica de Panamá. https://github.com/Moisinho/Portafolio/tree/main/Proyecto%20FloraFaunaUTP
 
 
 Proyecto 2: Página en la que se revisa si una palabra es Palíndroma o no. https://github.com/Moisinho/Portafolio/tree/main/FreeCodeCamp/Javascript/Proyectos/Palindrome%20Checker
